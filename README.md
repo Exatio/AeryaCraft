@@ -4,7 +4,7 @@ Ce que vous pouvez faire
 voici comment installer le projet 
 
 Télécharger MCP918 (http://www.modcoderpack.com/website/releases)
-fait une 'git clone https://github.com/AlexisTak/Voltaria.git'
+fait une 'git clone https://github.com/AlexisTak/AeryaCraft.git'
 copier/coller les dossiers
 
 Vous pouvez demander à contribuer au projet en ajoutant des fonctionalité 
